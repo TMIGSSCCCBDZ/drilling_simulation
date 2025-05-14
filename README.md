@@ -60,7 +60,7 @@ The drilling model is based on the following key relationships:
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/drilling-simulation.git
+git clone https://github.com/TMIGSSCCCBDZ/drilling_simulation.git
 cd drilling-simulation
 npm install
 npm run dev
