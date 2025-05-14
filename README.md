@@ -38,7 +38,7 @@ The drilling model is based on the following key relationships:
 - Flow rate influences hole cleaning efficiency.
 - Torque and drag increase with depth and bit wear.
 
-> Parameters are updated every second to simulate real-time conditions.
+> Parameters are updated every 3 second to simulate real-time conditions.
 
 ---
 
