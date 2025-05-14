@@ -24,7 +24,7 @@ This simulator is designed to:
 | Layer          | Tech                                  |
 |----------------|---------------------------------------|
 | Frontend       | Next.js + recharts + three.js  |
-| Simulation Core| JavaScript (custom physics engine)    |
+| Simulation Core| TypeScript (custom physics engine)    |
 | UI/UX          | TailwindCSS + ShadCN Components       |
 
 
