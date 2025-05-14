@@ -27,7 +27,6 @@ This simulator is designed to:
 | Simulation Core| JavaScript (custom physics engine)    |
 | UI/UX          | TailwindCSS + ShadCN Components       |
 
-> 🧠 Designed to be **framework-agnostic** — can be ported to Python or C++ for embedded systems or IoT applications.
 
 ---
 
@@ -35,7 +34,6 @@ This simulator is designed to:
 
 The drilling model is based on the following key relationships:
 
-- ROP = k × (WOB)^a × (RPM)^b
 - Bit wear affects ROP efficiency over time.
 - Flow rate influences hole cleaning efficiency.
 - Torque and drag increase with depth and bit wear.
@@ -46,7 +44,9 @@ The drilling model is based on the following key relationships:
 
 ## 📸 Screenshots
 
-> _Add screenshots or GIFs here showing the control panel, charts, and outputs._
+![Capture1](https://github.com/user-attachments/assets/4951524a-91d7-40ae-b6ce-aa09d6cf4824)
+![Capture2](https://github.com/user-attachments/assets/0e88ba89-6b1e-43fe-ab76-07f7b55ef8a6)
+
 
 ---
 
